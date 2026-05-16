@@ -417,6 +417,9 @@ currently_learning:
 <a href="https://github.com/Keerthan-Bhat?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-20%2B_Repos-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0e17"/>
 </a>
+<a href="https://www.linkedin.com/in/keerthan-bhat-138065254/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
