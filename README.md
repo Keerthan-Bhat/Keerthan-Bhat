@@ -229,8 +229,8 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keerthan-Bhat&show_icons=true&theme=tokyonight&hide_border=false&border_color=00d9ff&bg_color=0a0e17&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthan-Bhat&layout=compact&theme=tokyonight&hide_border=false&border_color=00d9ff&bg_color=0a0e17&title_color=00d9ff&text_color=c9d1d9&langs_count=10&border_radius=15" height="195"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=Keerthan-Bhat&show_icons=true&theme=tokyonight&hide_border=false&border_color=00d9ff&bg_color=0a0e17&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=15" height="195"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Keerthan-Bhat&layout=compact&theme=tokyonight&hide_border=false&border_color=00d9ff&bg_color=0a0e17&title_color=00d9ff&text_color=c9d1d9&langs_count=10&border_radius=15" height="195"/>
 
 <br/><br/>
 
@@ -245,7 +245,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthan-Bhat&theme=tokyonight&hide_border=false&border=00d9ff&background=0a0e17&stroke=00d9ff&ring=00d9ff&fire=00b4d8&currStreakLabel=00d9ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e&border_radius=15" width="75%"/>
+<img src="https://streak-stats.demolab.com/?user=Keerthan-Bhat&theme=tokyonight&hide_border=false&border=00d9ff&background=0a0e17&stroke=00d9ff&ring=00d9ff&fire=00b4d8&currStreakLabel=00d9ff&sideNums=c9d1d9&currStreakNum=ffffff&sideLabels=c9d1d9&dates=8b949e&border_radius=15" width="75%"/>
 
 </div>
 
@@ -255,7 +255,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthan-Bhat&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=00d9ff&bg_color=0a0e17&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&langs_count=12&border_radius=15" width="55%"/>
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Keerthan-Bhat&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=00d9ff&bg_color=0a0e17&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&langs_count=12&border_radius=15" width="55%"/>
 
 <br/><br/>
 
@@ -274,7 +274,11 @@ currently_learning:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Keerthan-Bhat/keerthan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthan-Bhat/keerthan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthan-Bhat/keerthan/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Keerthan-Bhat/keerthan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</picture>
 
 </div>
 
